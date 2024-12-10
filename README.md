@@ -8,13 +8,13 @@ Project Structure
 
 The project files are organized as follows:
 
-``image-retrieval-app/
+```image-retrieval-app/
 ├── images/
 ├── venv/
 ├── app.py
 ├── image_similarity.ipynb
 ├── vector.index
-└── vector.index.paths``
+└── vector.index.paths```
 
 -   `images/`: This directory contains the images that will be used for the image retrieval task.
 -   `venv/`: This directory contains the Python virtual environment for the project.
